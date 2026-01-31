@@ -1,19 +1,15 @@
-# Heart Disease Prediction (EDA & Preprocessing)
+# ❤️ Heart Disease Analytics & Prediction
 
-## Overview
-This project focuses on exploratory data analysis and data preprocessing for a heart disease prediction task.
+### 🚀 Overview
+Ye project medical data ko analyze karke heart disease ke potential risks predict karta hai. Isme **Exploratory Data Analysis (EDA)** aur **Machine Learning** ka use karke patient health insights nikale gaye hain.
 
-## Work Done
-- Performed EDA to understand data distribution
-- Handled zero and missing values
-- Applied StandardScaler for feature normalization
+### 🛠️ Tech Stack
+- **Language:** Python
+- **Libraries:** Pandas, Seaborn, Scikit-learn
+- **DevOps:** GitHub Actions (CI/CD)
 
-## Tools & Tech
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Google Colab
-
-## Status
-Project is under active development.
+### 📊 Key Features
+- **Correlation Analysis:** Blood Pressure aur Cholesterol ka heart health pe impact.
+- **Data Cleaning:** Missing values aur outliers handle kiye gaye.
+- **Prediction Model:** Random Forest Classifier ka use karke diagnosis prediction.
+- **Visualization:** Disease distribution based on Age and Chest Pain types.
